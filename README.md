@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 Este proyecto desarrolla un sistema de clasificación para predecir la fuga de clientes (**Churn**) en una empresa de telecomunicaciones. El objetivo es transitar desde modelos base con sobreajuste hacia ensambles optimizados capaces de generar valor comercial proactivo.
 
@@ -66,8 +65,3 @@ pip install -r requirements.txt
 3. Ejecuta el notebook principal para ver el flujo completo de entrenamiento y la identificación de los 15 clientes con mayor propensión a la fuga.
 
 Desarrollado con por Ignacio Robles (Nacho) – AI & Cloud Data Engineer.
-
-
-3. **Gráficos:** La curva ROC (AUC 0.91) es una excelente imagen para incluir en `/images` y referenciarla en el README.
-
-¡Con esto tu repositorio se verá impecable!
